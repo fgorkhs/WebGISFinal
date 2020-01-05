@@ -1,0 +1,3191 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-01-05T05:13:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158330409",
+        "building": "retail",
+        "name": "微笑水果量販店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.7355681,
+              25.0996555
+            ],
+            [
+              121.7357817,
+              25.0994823
+            ],
+            [
+              121.7358571,
+              25.0995624
+            ],
+            [
+              121.7356411,
+              25.0997383
+            ],
+            [
+              121.7355681,
+              25.0996555
+            ]
+          ]
+        ]
+      },
+      "id": "way/158330409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/366803220",
+        "addr:city": "新北市",
+        "addr:district": "三峽區",
+        "addr:housenumber": "212-1",
+        "addr:street": "三樹路",
+        "building": "yes",
+        "name": "南北鮮果專賣廣場 北大店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.3794416,
+              24.9424728
+            ],
+            [
+              121.379303,
+              24.9422497
+            ],
+            [
+              121.3794916,
+              24.9421263
+            ],
+            [
+              121.3796061,
+              24.9422991
+            ],
+            [
+              121.3794416,
+              24.9424728
+            ]
+          ]
+        ]
+      },
+      "id": "way/366803220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/367826626",
+        "building": "yes",
+        "name": "三兄弟生鮮蔬果",
+        "shop": "greengrocer",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.7257867,
+              25.1437553
+            ],
+            [
+              121.7258167,
+              25.1436018
+            ],
+            [
+              121.7259668,
+              25.1436218
+            ],
+            [
+              121.7259324,
+              25.1437787
+            ],
+            [
+              121.7257867,
+              25.1437553
+            ]
+          ]
+        ]
+      },
+      "id": "way/367826626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/533892965",
+        "addr:city": "基隆市",
+        "addr:district": "中山區",
+        "addr:housenumber": "96",
+        "addr:postcode": "20348",
+        "addr:street": "復興路",
+        "building": "yes",
+        "name": "復興蔬果",
+        "name:zh": "復興蔬果 總店",
+        "opening_hours": "24/7",
+        "payment:cash": "yes",
+        "shop": "greengrocer",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              121.7260814,
+              25.1436278
+            ],
+            [
+              121.7261089,
+              25.1434172
+            ],
+            [
+              121.726201,
+              25.143427
+            ],
+            [
+              121.7261734,
+              25.1436377
+            ],
+            [
+              121.7260814,
+              25.1436278
+            ]
+          ]
+        ]
+      },
+      "id": "way/533892965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837922316",
+        "history": "retrieved using undelete JOSM plugin",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.567315,
+          25.0845907
+        ]
+      },
+      "id": "node/1837922316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1837935261",
+        "history": "retrieved using undelete JOSM plugin",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5668423,
+          25.0826441
+        ]
+      },
+      "id": "node/1837935261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2175739162",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5049088,
+          24.9581798
+        ]
+      },
+      "id": "node/2175739162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2189578290",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "三重區",
+        "addr:full": "新北市三重區重新路五段408巷18號",
+        "addr:housenumber": "18",
+        "addr:postcode": "241",
+        "addr:street": "重新路五段408巷",
+        "name": "主婦聯明合作社三重站",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4759478,
+          25.0468035
+        ]
+      },
+      "id": "node/2189578290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2209949945",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:housenumber": "8",
+        "addr:postcode": "231",
+        "addr:street": "北宜路一段",
+        "name": "棉花田生機園地",
+        "opening_hours": "Mo-Sa 7:30-21:00, Su 7:30-18:00",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5377349,
+          24.958001
+        ]
+      },
+      "id": "node/2209949945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2298300589",
+        "name": "水果攤",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5374337,
+          24.956905
+        ]
+      },
+      "id": "node/2298300589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307156553",
+        "name": "尚選優質農產",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5935251,
+          25.0838163
+        ]
+      },
+      "id": "node/2307156553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307156583",
+        "name": "有機園地",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5914187,
+          25.0819285
+        ]
+      },
+      "id": "node/2307156583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2307156616",
+        "name": "里仁",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5938255,
+          25.0840252
+        ]
+      },
+      "id": "node/2307156616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2313764170",
+        "name": "蔬果店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5912411,
+          25.0809126
+        ]
+      },
+      "id": "node/2313764170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337241954",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "北投區",
+        "addr:housenumber": "16",
+        "addr:postcode": "112",
+        "addr:street": "公舘路334巷",
+        "name": "主婦聯盟奇岩取貨站",
+        "official_name": "台灣主婦聯盟生活消費合作社",
+        "phone": "+886-2-2894-0190",
+        "shop": "greengrocer",
+        "website": "http://www.hucc-coop.tw/stores/qiyan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5049555,
+          25.1244031
+        ]
+      },
+      "id": "node/2337241954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2355618192",
+        "name": "聖德科斯",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5408013,
+          24.9665568
+        ]
+      },
+      "id": "node/2355618192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2455453861",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:housenumber": "139-1",
+        "addr:postcode": "100",
+        "addr:street": "金山南路一段",
+        "name": "棉花田",
+        "name:en": "Cotton Land Health Stores",
+        "opening_hours": "Mo-Sa 07:30-21:00; Su 07:30-18:00",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.527581,
+          25.0350719
+        ]
+      },
+      "id": "node/2455453861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2473809810",
+        "name": "苗林有機產品",
+        "organic": "only",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5310474,
+          25.0168864
+        ]
+      },
+      "id": "node/2473809810"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2514660944",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "北投區",
+        "addr:housename": "阿泉仔的店（有機食物）",
+        "addr:housenumber": "147",
+        "addr:postcode": "112",
+        "addr:street": "公舘路",
+        "name": "阿泉仔的店（有機食物）",
+        "note": "商店負責人：黃先生 成立時間：10年",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5057805,
+          25.1293292
+        ]
+      },
+      "id": "node/2514660944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2587937515",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5216388,
+          25.1029167
+        ]
+      },
+      "id": "node/2587937515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2822549355",
+        "name": "順發蔬菓行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5910334,
+          25.0820379
+        ]
+      },
+      "id": "node/2822549355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2839793696",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:housenumber": "156",
+        "addr:postcode": "231",
+        "addr:street": "北新路三段",
+        "name": "胡麻園養生食品專賣",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5415442,
+          24.9827322
+        ]
+      },
+      "id": "node/2839793696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2917574040",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4580738,
+          25.0507057
+        ]
+      },
+      "id": "node/2917574040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2917574216",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4579274,
+          25.0529698
+        ]
+      },
+      "id": "node/2917574216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2977557660",
+        "addr:city": "臺北市",
+        "addr:district": "大安區",
+        "name": "聖德科斯",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5315009,
+          25.0181534
+        ]
+      },
+      "id": "node/2977557660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3039574633",
+        "name": "阿財水果店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4579534,
+          25.0526762
+        ]
+      },
+      "id": "node/3039574633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3136788998",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "336",
+        "addr:postcode": "111",
+        "addr:street": "中正路",
+        "name": "聖德科斯",
+        "operator": "聖德科斯",
+        "pedestrian arcade:wheelchair": "yes",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5221668,
+          25.094635
+        ]
+      },
+      "id": "node/3136788998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455793501",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "中和區",
+        "addr:housenumber": "632",
+        "addr:place": "中和區",
+        "addr:postcode": "235",
+        "addr:street": "景平路",
+        "name": "萬林雜糧行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5002242,
+          24.9980883
+        ]
+      },
+      "id": "node/3455793501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3475098330",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "中和區",
+        "addr:full": "新北市中和區中和路5號1樓",
+        "addr:housenumber": "5",
+        "addr:postcode": "235",
+        "addr:street": "中和路",
+        "name": "朝新商行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4996875,
+          25.0022563
+        ]
+      },
+      "id": "node/3475098330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3519842837",
+        "name": "168水果大賣場",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5344914,
+          24.9876998
+        ]
+      },
+      "id": "node/3519842837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3523782377",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "中和區",
+        "addr:floor": "1",
+        "addr:full": "新北市中和區南山路207號1樓",
+        "addr:housenumber": "207",
+        "addr:postcode": "235",
+        "addr:street": "南山路",
+        "organic": "有機家園",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5030464,
+          24.9943548
+        ]
+      },
+      "id": "node/3523782377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3547976768",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:housenumber": "225",
+        "addr:postcode": "106",
+        "addr:street": "忠孝東路三段",
+        "name": "里仁",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.540095,
+          25.0418685
+        ]
+      },
+      "id": "node/3547976768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3617206121",
+        "name": "希臘 MELITINI 美麗媞妮特橄欖油",
+        "payment:bitcoin": "yes",
+        "shop": "greengrocer",
+        "website": "http://www.owlting.com/market/vendor/10616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5436872,
+          25.0257742
+        ]
+      },
+      "id": "node/3617206121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3620127226",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "13",
+        "addr:postcode": "116",
+        "addr:street": "羅斯福路五段218巷",
+        "disused:name": "銀樂熟齡時尚館",
+        "disused:shop": "medic",
+        "name": "甜滋滋鮮果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5380209,
+          25.0020279
+        ]
+      },
+      "id": "node/3620127226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3670374311",
+        "name": "忠孝水菓",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5550273,
+          25.041936
+        ]
+      },
+      "id": "node/3670374311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3708200038",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4837032,
+          24.9979229
+        ]
+      },
+      "id": "node/3708200038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710078774",
+        "name": "君之菓",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.498239,
+          24.9956782
+        ]
+      },
+      "id": "node/3710078774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3728639537",
+        "alt_name": "好酵果通化旗艦店",
+        "name": "好酵果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5541262,
+          25.0299939
+        ]
+      },
+      "id": "node/3728639537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3730158225",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "15",
+        "addr:postcode": "116",
+        "addr:street": "景美街",
+        "name": "有機養生園",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5415081,
+          24.9935108
+        ]
+      },
+      "id": "node/3730158225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3740341245",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "246",
+        "addr:postcode": "11674",
+        "addr:street": "羅斯福路六段",
+        "name": "長庚生物科技",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5402593,
+          24.9920272
+        ]
+      },
+      "id": "node/3740341245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3761232580",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "樹林區",
+        "addr:housenumber": "64",
+        "addr:postcode": "238",
+        "addr:street": "育英街",
+        "name": "樹葉",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4210562,
+          24.9892786
+        ]
+      },
+      "id": "node/3761232580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3767530271",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "185",
+        "addr:postcode": "116",
+        "addr:street": "景文街",
+        "disused:name": "新景美傢俱行",
+        "disused:shop": "furniture",
+        "name": "景美水果行",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5410107,
+          24.9885519
+        ]
+      },
+      "id": "node/3767530271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3812406101",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "68",
+        "addr:postcode": "116",
+        "addr:street": "景華街",
+        "name": "水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5450157,
+          24.995074
+        ]
+      },
+      "id": "node/3812406101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3821097951",
+        "name": "水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5378625,
+          24.9568877
+        ]
+      },
+      "id": "node/3821097951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3835345694",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5549626,
+          24.9863897
+        ]
+      },
+      "id": "node/3835345694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3837459804",
+        "name": "一 牛車大王",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4184441,
+          24.9780488
+        ]
+      },
+      "id": "node/3837459804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3840862472",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "214之1",
+        "addr:postcode": "116",
+        "addr:street": "羅斯福路五段",
+        "name": "樸鹿集自然生活",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5385755,
+          25.0024316
+        ]
+      },
+      "id": "node/3840862472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873109682",
+        "name": "阿進水果行",
+        "ref": "60",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.534339,
+          25.0532901
+        ]
+      },
+      "id": "node/3873109682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3881644116",
+        "name": "水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5417634,
+          24.9927602
+        ]
+      },
+      "id": "node/3881644116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3881721571",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:housenumber": "1",
+        "addr:postcode": "231",
+        "addr:street": "北新路二段139巷",
+        "branch": "新店站",
+        "name": "主婦聯盟合作社",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5427029,
+          24.9755868
+        ]
+      },
+      "id": "node/3881721571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3881721576",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:housenumber": "153",
+        "addr:postcode": "231",
+        "addr:street": "北新路二段",
+        "disused:name": "堤亞摩咖啡生活館",
+        "disused:shop": "coffee",
+        "name": "胡麻園養生食品專賣",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5427548,
+          24.975995
+        ]
+      },
+      "id": "node/3881721576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3891423028",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:housenumber": "161",
+        "addr:postcode": "231",
+        "addr:street": "北新路三段",
+        "name": "愛維根便利店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5410429,
+          24.983745
+        ]
+      },
+      "id": "node/3891423028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3909253504",
+        "name": "水果攤",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4178975,
+          24.9803409
+        ]
+      },
+      "id": "node/3909253504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3909253525",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "樹林區",
+        "addr:housenumber": "52",
+        "addr:postcode": "238",
+        "addr:street": "太元街",
+        "name": "大山珍水果城",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.418369,
+          24.9795716
+        ]
+      },
+      "id": "node/3909253525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3909277049",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "樹林區",
+        "addr:housenumber": "58",
+        "addr:postcode": "238",
+        "addr:street": "太順街",
+        "name": "菜店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4179957,
+          24.9793623
+        ]
+      },
+      "id": "node/3909277049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3917907435",
+        "name": "蔬果店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5471483,
+          25.019892
+        ]
+      },
+      "id": "node/3917907435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007798832",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "47",
+        "addr:postcode": "116",
+        "addr:street": "景美街",
+        "name": "春風鮮果專賣廣場",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5419306,
+          24.9913441
+        ]
+      },
+      "id": "node/4007798832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4007811644",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "63",
+        "addr:postcode": "116",
+        "addr:street": "景美街",
+        "name": "維根蔬果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.541833,
+          24.9909266
+        ]
+      },
+      "id": "node/4007811644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4018219511",
+        "name": "棉花田",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5395495,
+          24.9728948
+        ]
+      },
+      "id": "node/4018219511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4031297502",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:housenumber": "55",
+        "addr:postcode": "104",
+        "addr:street": "伊通街",
+        "branch": "伊通公園店",
+        "name": "里仁",
+        "phone": "+886 2 2517 6307",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5348975,
+          25.0512955
+        ]
+      },
+      "id": "node/4031297502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4033147917",
+        "name": "金果圓水果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5414683,
+          24.9683801
+        ]
+      },
+      "id": "node/4033147917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4058519110",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "19",
+        "addr:postcode": "116",
+        "addr:street": "興隆路二段",
+        "name": "興隆米廠",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5454582,
+          24.9988668
+        ]
+      },
+      "id": "node/4058519110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4116025789",
+        "name": "Juice juice就是果汁",
+        "shop": "greengrocer",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.542773,
+          25.0238498
+        ]
+      },
+      "id": "node/4116025789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144290591",
+        "name": "蔬果產地直銷",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4215068,
+          24.9793513
+        ]
+      },
+      "id": "node/4144290591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4149458758",
+        "name": "大直水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.54524,
+          25.0796128
+        ]
+      },
+      "id": "node/4149458758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4149458765",
+        "name": "聖德科斯",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5454301,
+          25.079652
+        ]
+      },
+      "id": "node/4149458765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4200643099",
+        "name": "水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5517569,
+          25.0023121
+        ]
+      },
+      "id": "node/4200643099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253208200",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:housenumber": "5",
+        "addr:postcode": "100",
+        "addr:street": "羅斯福路三段210巷8弄",
+        "name": "主婦聯盟合作社公館站",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5293028,
+          25.0182474
+        ]
+      },
+      "id": "node/4253208200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4269582581",
+        "name": "聖德科斯生機食品",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.543674,
+          25.0497925
+        ]
+      },
+      "id": "node/4269582581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4281419174",
+        "fixme": "yes",
+        "name": "總來商行",
+        "note": "蔬果攤 需修正",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5178139,
+          25.0314902
+        ]
+      },
+      "id": "node/4281419174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4312418441",
+        "name": "百菓山水果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5913572,
+          25.080619
+        ]
+      },
+      "id": "node/4312418441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4312568112",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "樹林區",
+        "addr:housenumber": "147-8",
+        "addr:postcode": "238",
+        "addr:street": "太平路",
+        "name": "大統水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4185709,
+          24.9786216
+        ]
+      },
+      "id": "node/4312568112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325694112",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6093127,
+          25.0008809
+        ]
+      },
+      "id": "node/4325694112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325694175",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "210",
+        "addr:postcode": "11674",
+        "addr:street": "羅斯福路六段",
+        "branch": "景美站門市",
+        "name": "聖德科斯生機食品",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5407534,
+          24.9934497
+        ]
+      },
+      "id": "node/4325694175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325694199",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:housenumber": "71",
+        "addr:postcode": "100",
+        "addr:street": "汀州路三段",
+        "name": "鄉村蔬菜水果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5284726,
+          25.0178478
+        ]
+      },
+      "id": "node/4325694199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4325694201",
+        "name": "金椰子鮮果專賣廣場",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.6069191,
+          25.0013741
+        ]
+      },
+      "id": "node/4325694201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4334127600",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:housenumber": "41",
+        "addr:postcode": "231",
+        "addr:street": "北新路一段",
+        "name": "黑哥鮮果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5379596,
+          24.9594274
+        ]
+      },
+      "id": "node/4334127600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4353617481",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:housenumber": "56",
+        "addr:postcode": "104",
+        "addr:street": "民生西路",
+        "name": "水果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5210389,
+          25.0575731
+        ]
+      },
+      "id": "node/4353617481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4360380426",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:housenumber": "37",
+        "addr:postcode": "106",
+        "addr:street": "和平東路二段118巷54弄",
+        "name": "姐弟蔬果店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5412184,
+          25.0220828
+        ]
+      },
+      "id": "node/4360380426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4410824047",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5218613,
+          25.0888264
+        ]
+      },
+      "id": "node/4410824047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4452890970",
+        "name": "微笑蔬果",
+        "opening_hours": "24/7",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4138949,
+          25.0232253
+        ]
+      },
+      "id": "node/4452890970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4483312096",
+        "name": "timid's",
+        "shop": "greengrocer",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5252274,
+          25.0872192
+        ]
+      },
+      "id": "node/4483312096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4512469697",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "117",
+        "addr:postcode": "116",
+        "addr:street": "景文街",
+        "name": "棉花田生機飲食",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5412475,
+          24.990594
+        ]
+      },
+      "id": "node/4512469697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524318943",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "47",
+        "addr:postcode": "116",
+        "addr:street": "羅斯福路五段",
+        "name": "有機健康坊",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5390263,
+          25.0071109
+        ]
+      },
+      "id": "node/4524318943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524318952",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "9",
+        "addr:postcode": "116",
+        "addr:street": "景興路153巷",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5452487,
+          24.9937337
+        ]
+      },
+      "id": "node/4524318952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524318957",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "34",
+        "addr:postcode": "116",
+        "addr:street": "羅斯福路五段",
+        "name": "水果禮盒",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5374778,
+          25.0090143
+        ]
+      },
+      "id": "node/4524318957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524344028",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "新店區",
+        "addr:housenumber": "49",
+        "addr:postcode": "231",
+        "addr:street": "民權路",
+        "name": "聖德科斯",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5396694,
+          24.982767
+        ]
+      },
+      "id": "node/4524344028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524863904",
+        "name": "花果山水果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5404935,
+          25.048157
+        ]
+      },
+      "id": "node/4524863904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4524863909",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:housenumber": "2",
+        "addr:postcode": "106",
+        "addr:street": "通化街",
+        "disused:name": "冰火食坊",
+        "disused:shop": "deli",
+        "name": "蜂之鄉",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5541579,
+          25.0322829
+        ]
+      },
+      "id": "node/4524863909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4633732689",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:housenumber": "51",
+        "addr:postcode": "100",
+        "addr:street": "羅斯福路一段",
+        "name": "水母舖現榨果汁",
+        "name:zh": "水母舖現榨果汁",
+        "shop": "greengrocer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5190808,
+          25.0319958
+        ]
+      },
+      "id": "node/4633732689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4692145490",
+        "name": "小市場",
+        "name:fr": "Marché",
+        "name:zh": "小市場",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5268835,
+          25.0351936
+        ]
+      },
+      "id": "node/4692145490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4787245126",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5280654,
+          25.034858
+        ]
+      },
+      "id": "node/4787245126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4787249421",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5289255,
+          25.0347226
+        ]
+      },
+      "id": "node/4787249421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4787249521",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5279581,
+          25.0350547
+        ]
+      },
+      "id": "node/4787249521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794439525",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5005801,
+          25.0393994
+        ]
+      },
+      "id": "node/4794439525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794445022",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5277485,
+          25.0344081
+        ]
+      },
+      "id": "node/4794445022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794445023",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5279512,
+          25.0346722
+        ]
+      },
+      "id": "node/4794445023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794445024",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5278407,
+          25.0347416
+        ]
+      },
+      "id": "node/4794445024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794445025",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5279654,
+          25.0347319
+        ]
+      },
+      "id": "node/4794445025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794445029",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5004469,
+          25.0381855
+        ]
+      },
+      "id": "node/4794445029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4801848624",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5300879,
+          25.0345884
+        ]
+      },
+      "id": "node/4801848624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810839427",
+        "name": "正直村有機園",
+        "name:en": "Health Food Shop",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4977684,
+          25.1313756
+        ]
+      },
+      "id": "node/4810839427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4820442539",
+        "cuisine": "果汁-雪花冰",
+        "name": "鮮果王",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4513543,
+          25.0470782
+        ]
+      },
+      "id": "node/4820442539"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4836631356",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:housenumber": "40",
+        "addr:postcode": "100",
+        "addr:street": "南海路",
+        "name": "義和水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5158299,
+          25.0321849
+        ]
+      },
+      "id": "node/4836631356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837986420",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:housenumber": "253",
+        "addr:postcode": "106",
+        "addr:street": "基隆路二段",
+        "name": "芳平水果店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5504806,
+          25.0223397
+        ]
+      },
+      "id": "node/4837986420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4961039546",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "中山區",
+        "addr:housenumber": "10",
+        "addr:postcode": "104",
+        "addr:street": "松江路313巷",
+        "name": "松江水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5344103,
+          25.0617103
+        ]
+      },
+      "id": "node/4961039546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5110348713",
+        "name": "里仁",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5554041,
+          25.0517853
+        ]
+      },
+      "id": "node/5110348713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5110490250",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "萬華區",
+        "addr:housenumber": "67",
+        "addr:postcode": "108",
+        "addr:street": "西寧南路",
+        "name": "西寧松蔬菜水果",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5069927,
+          25.0461703
+        ]
+      },
+      "id": "node/5110490250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5178922391",
+        "name": "賣菜的阿嬤",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.7347536,
+          25.1321431
+        ]
+      },
+      "id": "node/5178922391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5197947430",
+        "amenity": "bar",
+        "name": "東海萊姆園organic lime",
+        "organic": "yes",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5294367,
+          25.1185289
+        ]
+      },
+      "id": "node/5197947430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205447521",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "28",
+        "addr:postcode": "111",
+        "addr:street": "天母西路",
+        "name": "聖德科斯生機食品",
+        "organic": "yes",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wheelchair:description": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5266356,
+          25.1183346
+        ]
+      },
+      "id": "node/5205447521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205457024",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "235",
+        "addr:postcode": "111",
+        "addr:street": "中山北路六段",
+        "name": "里仁",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5251559,
+          25.1090442
+        ]
+      },
+      "id": "node/5205457024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205492927",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "57",
+        "addr:postcode": "111",
+        "addr:street": "天母西路",
+        "name": "百鮮蔬果樂園",
+        "shop": "greengrocer",
+        "wheelchair": "limited",
+        "wheelchair:description": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5266138,
+          25.1185558
+        ]
+      },
+      "id": "node/5205492927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5205526422",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "69",
+        "addr:postcode": "111",
+        "addr:street": "天母西路",
+        "name": "新豐水果",
+        "shop": "greengrocer",
+        "wheelchair": "no",
+        "wheelchair:description": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5255501,
+          25.1185614
+        ]
+      },
+      "id": "node/5205526422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5219072621",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "711",
+        "addr:postcode": "111",
+        "addr:street": "中山北路六段",
+        "name": "御鼎屋生鮮巧集",
+        "shop": "greengrocer",
+        "wheelchair": "limited",
+        "wheelchair:description": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5275026,
+          25.1149228
+        ]
+      },
+      "id": "node/5219072621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5236371623",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "27",
+        "addr:postcode": "111",
+        "addr:street": "德行東路109巷",
+        "name": "大自然水果專賣店",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "１"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5282849,
+          25.1084987
+        ]
+      },
+      "id": "node/5236371623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5236372924",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "15",
+        "addr:postcode": "111",
+        "addr:street": "德行東路109巷",
+        "name": "亞洲蔬菜水果",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5281747,
+          25.1081905
+        ]
+      },
+      "id": "node/5236372924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5236381023",
+        "name": "果原水果行",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5114639,
+          25.0568545
+        ]
+      },
+      "id": "node/5236381023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5236385821",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:full": "台北市士林區德行東路109巷27號",
+        "addr:housenumber": "27",
+        "addr:postcode": "111",
+        "addr:street": "德行東路109巷",
+        "name": "大自然水果專賣店",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "１"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5282607,
+          25.1084951
+        ]
+      },
+      "id": "node/5236385821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242565140",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "97",
+        "addr:postcode": "111",
+        "addr:street": "士東路",
+        "name": "棉花田生機園地",
+        "organic": "yes",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5294585,
+          25.1122735
+        ]
+      },
+      "id": "node/5242565140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242575423",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "115",
+        "addr:postcode": "111",
+        "addr:street": "德行東路109巷",
+        "name": "阿強西瓜專賣店",
+        "shop": "greengrocer",
+        "wheelchair": "no",
+        "wheelchair:description": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5287284,
+          25.1114477
+        ]
+      },
+      "id": "node/5242575423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242619246",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:full": "111台北市士林區德行東路109巷110號",
+        "addr:housenumber": "110",
+        "addr:postcode": "111",
+        "addr:street": "德行東路109巷",
+        "name": "翡翠綠鮮果專賣廣場",
+        "shop": "greengrocer",
+        "wheelchair": "yes",
+        "wheelchair:description": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5289377,
+          25.1113169
+        ]
+      },
+      "id": "node/5242619246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5242620021",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "3",
+        "addr:postcode": "111",
+        "addr:street": "士東路91巷",
+        "name": "聖德科斯",
+        "organic": "yes",
+        "shop": "greengrocer",
+        "wheelchair": "no",
+        "wheelchair:description": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5290821,
+          25.1125725
+        ]
+      },
+      "id": "node/5242620021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5255066121",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "9",
+        "addr:postcode": "111",
+        "addr:street": "德行東路",
+        "name": "養生食品專賣",
+        "organic": "yes",
+        "shop": "greengrocer",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5254517,
+          25.1067554
+        ]
+      },
+      "id": "node/5255066121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5256861225",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "士林區",
+        "addr:housenumber": "15",
+        "addr:postcode": "111",
+        "addr:street": "忠誠路二段50巷",
+        "name": "挑食 好食材專賣店",
+        "organic": "yes",
+        "shop": "greengrocer",
+        "wheelchair": "no",
+        "wheelchair:description": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5298043,
+          25.1107288
+        ]
+      },
+      "id": "node/5256861225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5307590001",
+        "name": "瓜瓜園養生地瓜",
+        "name:zh": "瓜瓜園養生地瓜",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5189816,
+          25.0321782
+        ]
+      },
+      "id": "node/5307590001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5505377670",
+        "addr:city": "台北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "9",
+        "addr:postcode": "116",
+        "addr:street": "景隆街",
+        "name": "大易園",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5400521,
+          25.0003628
+        ]
+      },
+      "id": "node/5505377670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5551931024",
+        "name": "綠原品",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wheelchair:description": "有通道 沒有無障礙廁所 非正常營業"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5438372,
+          25.0352871
+        ]
+      },
+      "id": "node/5551931024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5680786716",
+        "name": "果粉水果超市",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5252285,
+          25.021234
+        ]
+      },
+      "id": "node/5680786716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5689710841",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "14",
+        "addr:postcode": "116",
+        "addr:street": "羅斯福路五段218巷",
+        "name": "沅鳳鮮蔬",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.537889,
+          25.0021587
+        ]
+      },
+      "id": "node/5689710841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5695162331",
+        "name": "棉花田生機飲食",
+        "shop": "greengrocer",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5308388,
+          25.0184334
+        ]
+      },
+      "id": "node/5695162331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5795699466",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "84-1",
+        "addr:postcode": "116",
+        "addr:street": "興隆路一段",
+        "name": "德威生物科技",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5409622,
+          25.0033024
+        ]
+      },
+      "id": "node/5795699466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5840853585",
+        "name": "Fruit store",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5250917,
+          25.0513681
+        ]
+      },
+      "id": "node/5840853585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863510949",
+        "name": "萬隆水果",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5383405,
+          24.9990683
+        ]
+      },
+      "id": "node/5863510949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5864552975",
+        "name": "菜圃",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5461562,
+          25.0271416
+        ]
+      },
+      "id": "node/5864552975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5924219701",
+        "name": "水果行",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5400945,
+          25.0003374
+        ]
+      },
+      "id": "node/5924219701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6004507070",
+        "name": "健康食彩",
+        "pedestrian arcade:wheelchair": "limited",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5237267,
+          25.0949951
+        ]
+      },
+      "id": "node/6004507070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6024267589",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "淡水區",
+        "addr:housenumber": "44",
+        "addr:postcode": "251",
+        "addr:street": "民生路",
+        "name": "新奇商號",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4616188,
+          25.1378231
+        ]
+      },
+      "id": "node/6024267589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6024277483",
+        "name": "台灣蕃薯專賣店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4970469,
+          25.0700014
+        ]
+      },
+      "id": "node/6024277483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028653685",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "樹林區",
+        "addr:floor": "1",
+        "addr:housenumber": "7",
+        "addr:postcode": "238",
+        "addr:street": "保安街一段",
+        "addr:unit": "蔬果店",
+        "name": "水果樂園",
+        "opening_hours": "7:00-12:30",
+        "phone": "86753520",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4270639,
+          24.9934234
+        ]
+      },
+      "id": "node/6028653685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028674876",
+        "addr:city": "新北市",
+        "addr:district": "樹林區",
+        "addr:street": "保安街一段16巷",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4286888,
+          24.9945688
+        ]
+      },
+      "id": "node/6028674876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028674877",
+        "addr:city": "新北市",
+        "addr:district": "樹林區",
+        "addr:street": "保安街一段16巷",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4287089,
+          24.9945856
+        ]
+      },
+      "id": "node/6028674877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028674878",
+        "addr:city": "新北市",
+        "addr:district": "樹林區",
+        "addr:street": "保安街一段16巷",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4287551,
+          24.9945613
+        ]
+      },
+      "id": "node/6028674878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028674879",
+        "addr:city": "新北市",
+        "addr:district": "樹林區",
+        "addr:street": "保安街一段16巷",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4287477,
+          24.9945419
+        ]
+      },
+      "id": "node/6028674879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028674881",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "樹林區",
+        "addr:floor": "1",
+        "addr:housenumber": "34",
+        "addr:postcode": "238",
+        "addr:street": "保安街一段16巷",
+        "name": "產地直銷蔬菜",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4285719,
+          24.9942931
+        ]
+      },
+      "id": "node/6028674881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028681167",
+        "addr:city": "新北市",
+        "addr:district": "樹林區",
+        "addr:postcode": "238",
+        "addr:street": "樹新路28巷",
+        "name": "東春水果行",
+        "note": "營業時間 6:00~13:00\n公休日 周一",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4281104,
+          24.9937941
+        ]
+      },
+      "id": "node/6028681167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6028696677",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "樹林區",
+        "addr:housenumber": "24",
+        "addr:postcode": "238",
+        "addr:street": "保安街一段20巷",
+        "name": "青山水果",
+        "opening_hours": "Mo-Fr 05:00-17:00",
+        "payment:coins": "yes",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4280986,
+          24.9941779
+        ]
+      },
+      "id": "node/6028696677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6114714475",
+        "name": "水果店",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5427565,
+          25.0220588
+        ]
+      },
+      "id": "node/6114714475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6172401985",
+        "name": "棉花田生機園地",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5380904,
+          25.0270086
+        ]
+      },
+      "id": "node/6172401985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6514349834",
+        "name": "聖德科斯",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5547159,
+          25.0518267
+        ]
+      },
+      "id": "node/6514349834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6549014568",
+        "name": "里仁",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5270019,
+          25.0301985
+        ]
+      },
+      "id": "node/6549014568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6600388740",
+        "name": "聖德科斯",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5442841,
+          25.05432
+        ]
+      },
+      "id": "node/6600388740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6656195797",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "文山區",
+        "addr:housenumber": "18",
+        "addr:postcode": "116",
+        "addr:street": "羅斯福路五段211巷",
+        "description": "疑似關門了",
+        "name": "果然新鮮",
+        "phone": "+886 2 8931 0258",
+        "shop": "greengrocer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5395688,
+          25.0023933
+        ]
+      },
+      "id": "node/6656195797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6885479827",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.522657,
+          25.0397496
+        ]
+      },
+      "id": "node/6885479827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6886599779",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "中正區",
+        "addr:housenumber": "5",
+        "addr:postcode": "100",
+        "addr:street": "開封街一段",
+        "name": "大坤水果店",
+        "opening_hours": "Mo-Su 9:00-20:30",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5140194,
+          25.0460772
+        ]
+      },
+      "id": "node/6886599779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6924533506",
+        "level": "0",
+        "name": "Hua Kuo Shan",
+        "organic": "no",
+        "shop": "greengrocer",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5311859,
+          25.0404553
+        ]
+      },
+      "id": "node/6924533506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7017482890",
+        "addr:housenumber": "104",
+        "addr:street": "長沙街二段",
+        "name": "聖德科斯",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5045539,
+          25.0403392
+        ]
+      },
+      "id": "node/7017482890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056026970",
+        "addr:city": "臺北市",
+        "addr:country": "TW",
+        "addr:district": "大安區",
+        "addr:housenumber": "371",
+        "addr:postcode": "106",
+        "addr:street": "復興南路二段",
+        "name": "健康生機超市",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5435599,
+          25.0225167
+        ]
+      },
+      "id": "node/7056026970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7095347131",
+        "name": "花甜果室",
+        "shop": "greengrocer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5471681,
+          25.0434652
+        ]
+      },
+      "id": "node/7095347131"
+    }
+  ]
+}
